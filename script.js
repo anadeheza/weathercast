@@ -100,4 +100,3 @@ function updateWeatherUI(data) {
 searchBtn.addEventListener('click', () => {
     checkWeather(inputBox.value);
 });
-
